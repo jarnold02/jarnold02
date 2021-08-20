@@ -1,6 +1,4 @@
-- jarnold02
-
-- Jackson Arnold
+## Jackson Arnold
 - UF ECE PhD Canidatae
 - UF FOCUS Lab
 
