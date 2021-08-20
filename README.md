@@ -1,6 +1,6 @@
 ## Jackson Arnold
 - UF ECE PhD Canidatae
-- UF FOCUS Lab
+- FOCUS Lab
 
 - Contact
   - Email: jarnold2@ufl.edu
